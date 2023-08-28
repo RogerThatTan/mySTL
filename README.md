@@ -3,7 +3,8 @@
 <br>
 This repository contains a collection of common data structures and algorithms implemented in C++. Each data structure is implemented as a class with various methods for operations like insertion, deletion, and traversal.
 <br>
-Table of Contents
+<br>
+**Table of Contents**
 <br>
 Single Linked List
 <br>
@@ -20,23 +21,29 @@ Binary Search Tree (BST)
 <br>
 The SingleLinkedList class represents a singly linked list. It provides methods to insert elements at the beginning, end, or any specified position, delete elements by value or position, and display the list's contents.
 <br>
+<br>
 **Double Linked List**
 <br>
-The DoubleLinkedList class represents a doubly linked list. It provides methods to insert elements at the beginning, end, or any specified position, delete elements by value or position, and display the list's contents.
+The Double LinkedList class represents a doubly linked list. It provides methods to insert elements at the beginning, end, or any specified position, delete elements by value or position, and display the list's contents.
+<br>
 <br>
 **Stack**
 <br>
 The Stack class implements a basic stack data structure. It provides methods to push elements onto the stack, pop elements from the stack, and get the top element. The stack is implemented using a linked list.
 <br>
+<br>
 **Queue**
 <br>
 The Queue class implements a basic queue data structure. It provides methods to enqueue elements at the rear, dequeue elements from the front, and get the front and rear elements. The queue is implemented using a linked list.
+<br>
 <br>
 **Binary Search Tree (BST)**
 <br>
 The BST class implements a binary search tree. It provides methods to insert elements, search for elements, and display the tree in various orders (in-order, pre-order, post-order).
 <br>
+<br>
 Feel free to modify the code and explore the different operations for each data structure.
+<br>
 <br>
 **Contributions**
 <br>
