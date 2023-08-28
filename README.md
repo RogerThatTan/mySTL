@@ -13,7 +13,7 @@ Double Linked List
 `<br>`
 Stack
 `<br>`
-Queue 2
+Queue
 `<br>`
 Binary Search Tree (BST)
 `<br>`
